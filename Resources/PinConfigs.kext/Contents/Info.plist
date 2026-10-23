@@ -11130,6 +11130,24 @@
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>NullMoth - Senary SN6140 for XMG NEO A25 (Tongfang X6FR5xxY)</string>
+					<key>CodecID</key>
+					<integer>351346567</integer>
+					<key>ConfigData</key>
+					<data>AWccQAFnHUABZx4hAWcfBAF3HGABdx0xAXceFwF3H5ABlxwgAZcdkAGXHqEBlx8EAaccUAGnHSEBpx6nAacfkAFnDAIBdwwCAZcHJAGnByA=</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>28</integer>
+					<key>WakeConfigData</key>
+					<data>AWcMAgF3DAIBlwckAacHIA==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
 			</array>
 			<key>IOClass</key>
 			<string>AppleALC</string>
